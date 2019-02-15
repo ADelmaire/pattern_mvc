@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+img {
+	height: 600px;
+}
+
+#prix{
+	color: red;
+}
+
+#conteneur{
+	width: 700px;
+	margin: auto;
+}

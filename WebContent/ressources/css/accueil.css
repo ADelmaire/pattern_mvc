@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+img{
+	width: 290px;
+	height: 200px;
+	border: 1px gray solid;
+}
+
+img:hover{
+	border: 1px red solid
+}
+
+#titrePrincipal{
+	text-align: center;
+}
+
+#conteneur{
+	width: 600px;
+	margin: auto;
+}
